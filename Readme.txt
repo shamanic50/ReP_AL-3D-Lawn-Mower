@@ -2,9 +2,7 @@ ReP_AL-3D-Lawn-Mower
 Code and Files for the ReP_AL 3D Printed Lawn Mower
 ---------------------------------------------------
 
-The mower software is in the folder with the latest release number. 
-The latest release is V5.1    (Feb 2019)
-
+The mower software is in the folder Mower Arduino Code:  
 MEGA - Needs to be uploaded to the Arduino MEGA 
 NANO - Needs to be uploaded to the Arduino NANO   
 (I needed to use the "old bootloader" option in the Arduino IDE to get the sketch to upload to the NANO)
