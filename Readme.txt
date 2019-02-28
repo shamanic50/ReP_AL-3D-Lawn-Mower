@@ -8,7 +8,7 @@ MEGA - Needs to be uploaded to the Arduino MEGA
 NANO - Needs to be uploaded to the Arduino NANO   
 (I needed to use the "old bootloader" option in the Arduino IDE to get the sketch to upload to the NANO)
 
-Perimeter Wire - Sender_V1 needs to be uploaded to the Arduino in the perimeter wire transmitter.
+Perimeter Wire - Sender_station_V1 needs to be uploaded to the Arduino in the perimeter wire transmitter.
 
 
 
