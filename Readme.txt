@@ -5,8 +5,10 @@ The mower software is in the folder with the latest release number.
 The latest release is V5.1    (Feb 2019)
 
 MEGA - Needs to be uploaded to the Arduino MEGA 
-NANO - Needs to be uploaded to the Arduino NANO 
-etc..
+NANO - Needs to be uploaded to the Arduino NANO   
+(I needed to use the "old bootloader" option in the Arduino IDE to get the sketch to upload to the NANO)
+
+
 
 Test sketches can found in the Test Sketches folder.
 They are designed to test the indiviual components in your build to see if they are working. 
