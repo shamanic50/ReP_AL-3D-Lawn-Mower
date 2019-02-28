@@ -5,6 +5,7 @@ Description of the test sketches and what they do.
 
 Relay_Test:
 If the relay is correctly wired to the MEGA the sketch turns the relay on and off at 1 second intervals.
+If the relay is not working check that pin24 is really being used.  The pins are labeled so that its easily done to use the wrong pin.
 
 
 Test Coms MEGA NANO:
