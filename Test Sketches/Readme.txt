@@ -2,6 +2,9 @@
 Description of the test sketches and what they do.
 ==================================================
 
+I2C_Address_Finder
+You will need to run this on the Mower Arduino MEGA to find the address of the LCD screen.  The Adress found then needs to be
+inputed into the Mower code so that the MEGA can talk to the LCD screen.
 
 Relay_Test:
 If the relay is correctly wired to the MEGA the sketch turns the relay on and off at 1 second intervals.
