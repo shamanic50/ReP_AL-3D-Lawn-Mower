@@ -15,7 +15,7 @@
      Inside Outside Flipped
      ======================
      If you are reading IN when you hold the mower outside the loop and OUT when you are inside the loop then 
-     it means your sensor and boundayr wire are working only the signal is flipped :)
+     it means your sensor and boundary wire are working (good news!), only the signal is flipped :)
      Solution: switch the boundary wires on your sender station terminals or switch the 11P ferrite sensor on the amplifier
      so the legs from the 11P ferite sensor are the other way around.
      
