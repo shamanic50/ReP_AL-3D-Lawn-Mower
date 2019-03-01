@@ -5,6 +5,7 @@
      Holding the mower in your hands (no motors on/no blades spinning!!) move around the garden and over the boundary wire.
      IN/OUT :  Displays if you are inside or outside of the wire loop
      MAG : Shows the magnitude of the wire signal   -ve is inside the loop  /   +ve outside the loop
+     
      All OK
      ======
      You are inside the mowing area and the display shows IN & You have a -ve MAG reading in the 1000's
@@ -17,6 +18,7 @@
      it means your sensor and boundayr wire are working only the signal is flipped :)
      Solution: switch the boundary wires on your sender station terminals or switch the 11P ferrite sensor on the amplifier
      so the legs from the 11P ferite sensor are the other way around.
+     
      Low MAG Readings
      ================
      The MAG reading is only in the 100's.  The adjust the amplifier screw so that the signal is strengthend and you now
