@@ -1,6 +1,10 @@
     SONAR TESTING SKETCH
     ==========================================
 
+    -------------------------------------------------------
+    Make sure that the I2C address of th LCD is updated!!!
+    -------------------------------------------------------
+    
     This test sketch will check the installation of the Sonar Array.
     It is very important that the Sonar array works correctly.  1. to avoid stuff and 2. if the sonar is not working
     correctly it will increase the loop time of the software considerably.
@@ -10,6 +14,10 @@
 
     In the setup you can turn on or off the individual sonars.
     
+    1 = ON    0 = OFF
+    bool Sonar_1_Activat            = 1;                        
+    bool Sonar_2_Activate           = 1;                         
+    bool Sonar_3_Activate           = 1; 
     
 
     LCD Displays following
