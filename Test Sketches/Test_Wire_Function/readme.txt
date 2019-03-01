@@ -1,3 +1,9 @@
+     
+     -------------------------------------------------------
+     Make sure that the I2C address of th LCD is updated!!!
+     -------------------------------------------------------
+     
+     
      You can use a Laptop and the Serial mointor to do this check but its better with the Mower and the LCD screen
      The LCD screen needs to be working (i.e. you knpow your I2C address)
      Add this I2C address to the sketch to activate the LCD screen
