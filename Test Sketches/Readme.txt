@@ -12,3 +12,8 @@ Test Coms MEGA NANO:
 Checks that the serial communication between the MEGA and the NANO is working.
 Open the sketch in 2 seperate ARDUINO IDE editors.  then run the serial mointor of the MEGA (Baud 115200) and the NANO (Baud 9600)
 If all is working well you should see the same Amps and Volts reading on each serial monitor.
+
+
+Test Wire Function
+Checks that the perimeter wire is working and setup correctly.
+Upload the sketch to the Arduino MEGA.  You will need to have the perimeter wire transmitter station running and a minimum 10-20m length of wire running from it.  The amplifier and 11P ferrite sensor will also need to be installed in the mower and connected to the Arduino MEGA as shown in the wiring diagrams (A5).
