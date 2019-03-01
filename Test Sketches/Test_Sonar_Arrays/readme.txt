@@ -5,7 +5,9 @@
     Make sure that the I2C address of th LCD is updated!!!
     -------------------------------------------------------
     
-    This test sketch will check the installation of the Sonar Array.
+    This test sketch will check the installation of the Sonar Array.  
+    Load this to the MEGA in the mower with the sonar array wired up.
+    
     It is very important that the Sonar array works correctly.  1. to avoid stuff and 2. if the sonar is not working
     correctly it will increase the loop time of the software considerably.
 
