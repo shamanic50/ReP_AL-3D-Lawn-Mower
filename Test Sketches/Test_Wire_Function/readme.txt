@@ -1,6 +1,6 @@
      You can use a Laptop and the Serial mointor to do this check but its better with the Mower and the LCD screen
      The LCD screen needs to be working (i.e. you knpow your I2C address)
-     Add this I2C address to the sketch below to activate the LCD screen
+     Add this I2C address to the sketch to activate the LCD screen
      This sketch is desgined to detect the boundary wire in your garden.
      Holding the mower in your hands (no motors on/no blades spinning!!) move around the garden and over the boundary wire.
      IN/OUT :  Displays if you are inside or outside of the wire loop
