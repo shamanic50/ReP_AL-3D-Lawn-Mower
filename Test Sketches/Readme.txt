@@ -16,6 +16,8 @@ Checks that the serial communication between the MEGA and the NANO is working.
 Open the sketch in 2 seperate ARDUINO IDE editors.  then run the serial mointor of the MEGA (Baud 115200) and the NANO (Baud 9600)
 If all is working well you should see the same Amps and Volts reading on each serial monitor.
 
+Test Sonar Arrays
+Checks the functionality of the SONAR array.  see the readme.txt in the folder for more details
 
 Test Wire Function
 Checks that the perimeter wire is working and setup correctly.
