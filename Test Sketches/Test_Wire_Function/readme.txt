@@ -23,3 +23,14 @@
      ================
      The MAG reading is only in the 100's.  The adjust the amplifier screw so that the signal is strengthend and you now
      get readings in the 1000's Inside and Outside the Wire
+     
+     
+     Nothing Happens
+     ===============
+     Check the wiring again
+     Check the correct pin is being used on the MEGA for the amplifier.
+     Check the Amplifier has 5V power
+     Check the sketch is uploaded to the perimeter wire transmitter
+     Check your Garden wire loop is closed and has no breaks in it.
+     Check you have enough power to the perimeter wire transmitter
+     There is a problem somehere.......    :)
