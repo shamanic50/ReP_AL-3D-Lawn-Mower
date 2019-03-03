@@ -22,3 +22,7 @@ Checks the functionality of the SONAR array.  see the readme.txt in the folder f
 Test Wire Function
 Checks that the perimeter wire is working and setup correctly.
 Upload the sketch to the Arduino MEGA.  You will need to have the perimeter wire transmitter station running and a minimum 10-20m length of wire running from it.  The amplifier and 11P ferrite sensor will also need to be installed in the mower and connected to the Arduino MEGA as shown in the wiring diagrams (A5).
+
+Mower Blade Test Only
+Checks the function of the Mower Blade Motor and motor controller
+REMOVE ALL BLADES from the mower disc when running this test!

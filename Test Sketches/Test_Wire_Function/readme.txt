@@ -33,10 +33,11 @@
      
      Nothing Happens
      ===============
-     Check the wiring again
+     Check the wiring diagram again and all is connected as in the diagram.
      Check the correct pin is being used on the MEGA for the amplifier.
      Check the Amplifier has 5V power
      Check the sketch is uploaded to the perimeter wire transmitter
      Check your Garden wire loop is closed and has no breaks in it.
      Check you have enough power to the perimeter wire transmitter
+     Check the continuity of all wires on the perimeter sensor
      There is a problem somehere.......    :)

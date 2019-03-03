@@ -42,4 +42,7 @@
     The sonar signal is not being read by the software.  
       Check wiring  (refernec diagram on the website)
       Check 5V is present at that sonar
+      Check continuity on all the wires from the MEGA pin to the pin on the Sonar module
+      Check there is not wiggle contact (pin is not sitting correctly in the plug)
       Check that Trig and Echo pins are not mixed up.
+      Check...check...check....
