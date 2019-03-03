@@ -1,6 +1,13 @@
 
+------------------------------------------------------------
+These files can be downloaded undee the GNU License provided
+------------------------------------------------------------
 
+In addition
+-----------
+If the design is modified I want the new design to be uploaded to thingiverse so all can enjoy the new design.
+I also want any new design to reference my original design and ReP_AL.
 
-Step files for the ReP_AL Mower
+Downloading these step files means you will comply with these wishes.
 
-These files are under the GNU GENERAL PUBLIC LICENSE
+ReP_AL
