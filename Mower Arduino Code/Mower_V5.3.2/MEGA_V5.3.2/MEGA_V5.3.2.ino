@@ -289,7 +289,8 @@ byte Mower_Setup;
   byte PWM_MaxSpeed_LH            = 248;                        // Straight line speed LH Wheel (Looking from back of mower)
   byte PWM_MaxSpeed_RH            = 255;                        // Straight line speed RH Wheel - adjust to keep mower tracking straight.
   byte PWM_Blade_Speed            = 245;                        // PWM signal sent to the blade motor (speed of blade) new motor works well at 245.
-
+  byte PWM_Blade_Speed_min        = 10;                         // PWM signal sent to the blade motor at start
+  
   bool Set_Time                   = 0;                          // Turn to 1 to set time on RTC (Set time in Time tab Set_Time_On_RTC)  After setting time turn to 0 and reload sketch.
   bool Alarm_1_ON                 = 0;                          // Activate Alarm 1  (1 = ON 0 = OFF)
   byte Alarm_Hour1                = 9;                          // Mowing Hour Number 1

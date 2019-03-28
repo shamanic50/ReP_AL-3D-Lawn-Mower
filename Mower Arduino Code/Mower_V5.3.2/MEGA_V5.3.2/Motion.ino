@@ -119,6 +119,11 @@ void SpinBlades()
     digitalWrite(R_EN, HIGH);
     digitalWrite(L_EN, HIGH);
     delay(20);
+      while (PWM_Blade_Speed_Min<PWM_Blade_Speed){            // Blade start progressively
+      analogWrite(RPWM, PWM_Blade_Speed_Min);
+      PWM_Blade_Speed_Min +=5;
+      delay(40);
+      }
     analogWrite(RPWM, PWM_Blade_Speed);
     delay(20);
     Serial.print("Blades:ON_|");
@@ -135,6 +140,7 @@ void StopSpinBlades()  {
   delay(20);
   digitalWrite(R_EN, LOW);
   digitalWrite(L_EN, LOW);
+  PWM_Blade_Speed_Min=10;
   delay(20);
     Serial.print("Blades:0FF|");
 }
